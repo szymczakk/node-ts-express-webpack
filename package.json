@@ -1,0 +1,16 @@
+{
+  "name": "graj-z-play-data-server",
+  "version": "1.0.0",
+  "description": "Serwer node.js napisany w TS",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "lodash": "^3.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rakaz (rakaz666@gmail.com)",
+  "license": "MIT"
+}
